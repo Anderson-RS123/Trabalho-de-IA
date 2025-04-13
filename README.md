@@ -41,5 +41,8 @@ Trabalho 1
          - .\venv\Scripts\Activate.ps1
   Execute os seguinte comandos para baixar as dependências:
         - pip install tensorflow keras pillow h5py
+  Você precisa colocar na variável "api_Key", dentro das àspas duplas, no arquivo "respostaIA", a chave API do google. Para conseguir a   
+  chave API do Gemini, vá nesse caminho: https://aistudio.google.com/apikey , faça login com sua conta google, e copie a chave API 
+  localizada no campo "Chave de API".
   Execute o arquivo "teachable.py"
       
