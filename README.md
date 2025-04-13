@@ -46,3 +46,7 @@ Trabalho 1
   localizada no campo "Chave de API".
   Execute o arquivo "teachable.py"
       
+# Ferramentas Utilizadas #
+   - Google Teachable
+   - VSCode Studio
+   - Google Generative AI (Gemini)
